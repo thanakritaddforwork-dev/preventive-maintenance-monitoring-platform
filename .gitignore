@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.*
+*.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+
+# Database backup
+*.db.bak*
+*.sqlite.bak*
+
+# Backup files
+*.bak
+*.bak.*
+*.save
+
+# Build
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+
+# Packages
+wheelhouse/
+wheelhouse.zip
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar.gz
