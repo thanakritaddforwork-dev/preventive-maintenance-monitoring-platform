@@ -38,3 +38,17 @@ Infrastructure: Ubuntu Server + VMware
 ## Author
 
 Thanakrit Hongto
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](docs/dashboard.png)
+
+### Inventory Management
+
+![Inventory](docs/inventory.png)
+
+### Ticket Management
+
+![Ticket](docs/ticket.png)
